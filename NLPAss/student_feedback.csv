@@ -1,0 +1,49 @@
+﻿feedback_id,feedback_text,sentiment,category
+F001,The lecturer explains difficult topics clearly and gives useful examples.,Positive,Teaching
+F002,I really enjoy the lectures because the instructor is well prepared.,Positive,Teaching
+F003,The teacher encourages questions and gives helpful answers.,Positive,Teaching
+F004,Course materials are organized and easy to understand.,Positive,Teaching
+F005,The lecturer provides timely feedback on assignments.,Positive,Teaching
+F006,The teaching methods make the subject interesting.,Positive,Teaching
+F007,The instructor is knowledgeable and supportive.,Positive,Teaching
+F008,Practical demonstrations help me understand the lessons.,Positive,Teaching
+F009,The laboratory has modern equipment for our experiments.,Positive,Laboratory
+F010,Lab assistants are friendly and help students when needed.,Positive,Laboratory
+F011,The computers in the laboratory work smoothly.,Positive,Laboratory
+F012,There are enough tools for students during practical sessions.,Positive,Laboratory
+F013,The library is clean and has comfortable study spaces.,Positive,Facilities
+F014,Classrooms are spacious and have good lighting.,Positive,Facilities
+F015,The campus internet connection is reliable.,Positive,Facilities
+F016,The university provides clean drinking water and restrooms.,Positive,Facilities
+F017,The administration responds quickly to student requests.,Positive,Administration
+F018,Registration procedures are simple and clearly explained.,Positive,Administration
+F019,Staff members are polite and provide accurate information.,Positive,Administration
+F020,Exam schedules are announced early enough.,Positive,Administration
+F021,The lecturer often arrives late and does not cover the syllabus.,Negative,Teaching
+F022,Lessons are confusing because the instructor does not explain concepts.,Negative,Teaching
+F023,The teacher rarely answers questions from students.,Negative,Teaching
+F024,Assignment feedback takes too long to arrive.,Negative,Teaching
+F025,Most laboratory computers are broken and cannot run the required software.,Negative,Laboratory
+F026,There is not enough equipment for everyone to complete experiments.,Negative,Laboratory
+F027,The laboratory is poorly maintained and lacks essential materials.,Negative,Laboratory
+F028,Practical sessions are frequently cancelled without notice.,Negative,Laboratory
+F029,The classrooms are overcrowded and uncomfortable.,Negative,Facilities
+F030,The campus Wi-Fi is very slow and disconnects frequently.,Negative,Facilities
+F031,The toilets are dirty and there are not enough study spaces.,Negative,Facilities
+F032,The library closes too early for students who study after class.,Negative,Facilities
+F033,The registration process is confusing and takes too much time.,Negative,Administration
+F034,Administrative staff do not respond to emails or questions.,Negative,Administration
+F035,Important announcements are shared too late.,Negative,Administration
+F036,It takes several weeks to receive official documents.,Negative,Administration
+F037,The lecture starts at the scheduled time and follows the course outline.,Neutral,Teaching
+F038,The instructor uses slides and a textbook during the lessons.,Neutral,Teaching
+F039,The laboratory is open on weekdays from morning until afternoon.,Neutral,Laboratory
+F040,Students use the available computers for practical assignments.,Neutral,Laboratory
+F041,"The university has classrooms, a library, and a cafeteria.",Neutral,Facilities
+F042,The campus has parking areas near the main buildings.,Neutral,Facilities
+F043,The administration office is located on the ground floor.,Neutral,Administration
+F044,Students submit registration forms to the academic office.,Neutral,Administration
+F045,The lecturer gives homework at the end of some classes.,Neutral,Teaching
+F046,The lab timetable is displayed on the department notice board.,Neutral,Laboratory
+F047,The library provides books for different academic departments.,Neutral,Facilities
+F048,The academic office publishes examination dates each semester.,Neutral,Administration
