@@ -1,0 +1,37 @@
+
+Artificial Intelligence (AI)
+
+Artificial Intelligence is a field of computer science
+that develops machines capable of performing tasks
+that normally require human intelligence.
+
+Machine Learning (ML)
+
+Machine Learning is a subset of Artificial Intelligence.
+It allows computers to learn patterns from data
+and make predictions without being explicitly programmed.
+
+Supervised Learning
+
+Supervised Learning is a machine learning approach
+that uses labeled training data.
+Examples include Classification and Regression.
+
+Unsupervised Learning
+
+Unsupervised Learning uses unlabeled data to discover
+hidden patterns and groups.
+K-Means is a popular unsupervised learning algorithm.
+
+K-Means Clustering
+
+K-Means is an unsupervised machine learning algorithm.
+It groups similar data points into K clusters.
+The algorithm uses centroids to represent each cluster.
+
+Retrieval-Augmented Generation (RAG)
+
+RAG combines information retrieval with text generation.
+It retrieves relevant information from a knowledge base
+and provides that information to an LLM as context.
+The LLM generates answers based on the retrieved context.
